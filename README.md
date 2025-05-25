@@ -6,9 +6,10 @@ T-shaped generalist with 15+ years of experience bridging software engineering, 
 
 ## Projects
 
-### <img src="assets/winterflow.png" alt="WinterFlow logo" height="24"/> [WinterFlow.io](https://winterflow.io) - A Fresh Look at Self-Hosting
+### [<img src="assets/winterflow.png" alt="WinterFlow logo" height="32"/>](https://winterflow.io)
 
-- Simplify and modernize how you self-host your web apps and tools.
+**WinterFlow.io** - A Fresh Look at Self-Hosting
+
 - **Website:** [winterflow.io](https://winterflow.io)
 - **Open Source:**
   - [WinterFlow Agent](https://github.com/flowmitry/winterflow-agent)
