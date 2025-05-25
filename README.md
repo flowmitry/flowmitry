@@ -15,9 +15,10 @@ T-shaped generalist with 15+ years of experience bridging software engineering, 
   - [WinterFlow Agent](https://github.com/flowmitry/winterflow-agent)
 
 
-### <img src="assets/econumo.png" alt="Econumo logo" height="24"/> [Econumo](https://econumo.com) \[eh-koh-NOO-mo]
+---
+### [<img src="assets/econumo.png" alt="Econumo logo" height="24"/>](https://econumo.com)
 
-A beautiful application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets, offering cloud-hosted or self-hosted options.
+**Econumo** [eh-koh-NOO-mo] - a beautiful application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets, offering cloud-hosted or self-hosted options.
 
 - **Website:** [econumo.com](https://econumo.com)
 - **Live Demo:** [demo.econumo.com](https://demo.econumo.com)
