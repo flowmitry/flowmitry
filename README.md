@@ -1,5 +1,3 @@
-# Projects
-
 ## [<img src="assets/winterflow.png" alt="WinterFlow logo" height="32"/>](https://winterflow.io)
 
 **WinterFlow.io** - A Fresh Look at Self-Hosting
