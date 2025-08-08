@@ -3,7 +3,7 @@
 **WinterFlow.io** - A Fresh Look at Self-Hosting
 
 - **Website:** [winterflow.io](https://winterflow.io)
-- **Open Source:** [WinterFlow Agent](https://github.com/winterflowio/winterflow-agent)
+- **Open Source:** [github.com/winterflowio](https://github.com/winterflowio)
 
 ## 
 [<img src="assets/econumo.png" alt="Econumo logo" height="24"/>](https://econumo.com)
