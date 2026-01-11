@@ -1,10 +1,3 @@
-[<img src="assets/winterflow.png" alt="WinterFlow logo" height="32"/>](https://winterflow.io)
-
-**WinterFlow.io** - A Fresh Look at Self-Hosting
-
-- **Website:** [winterflow.io](https://winterflow.io)
-- **Open Source:** [github.com/winterflowio](https://github.com/winterflowio)
-
 ## 
 [<img src="assets/econumo.png" alt="Econumo logo" height="24"/>](https://econumo.com)
 
@@ -13,6 +6,14 @@
 - **Website:** [econumo.com](https://econumo.com)
 - **Live Demo:** [demo.econumo.com](https://demo.econumo.com)
 - **Open Source:** [github.com/econumo](https://github.com/econumo)
+
+##
+[<img src="assets/winterflow.png" alt="WinterFlow logo" height="32"/>](https://winterflow.io)
+
+**WinterFlow.io** - A Fresh Look at Self-Hosting
+
+- **Website:** [winterflow.io](https://winterflow.io)
+- **Open Source:** [github.com/winterflowio](https://github.com/winterflowio)
 
 ##
 ### About Me
