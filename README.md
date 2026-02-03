@@ -8,12 +8,12 @@
 - **Open Source:** [github.com/econumo](https://github.com/econumo)
 
 ##
-[<img src="assets/winterflow.png" alt="WinterFlow logo" height="32"/>](https://winterflow.io)
+[<img src="assets/moose-browser.svg" alt="Moose Browser logo" height="32"/>](https://moosebrowser.com)
 
-**WinterFlow.io** - A Fresh Look at Self-Hosting
+**Moose Browser** - Under development
 
-- **Website:** [winterflow.io](https://winterflow.io)
-- **Open Source:** [github.com/winterflowio](https://github.com/winterflowio)
+- **Website:** [moosebrowser.com](https://moosebrowser.com)
+- **Status:** Not open source (under development)
 
 ##
 ### About Me
