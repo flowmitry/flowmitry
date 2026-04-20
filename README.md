@@ -1,6 +1,5 @@
 ## Most Recent Projects
 
-##
 [<img src="assets/econumo.png" alt="Econumo logo" height="24"/>](https://econumo.com)
 
 **Econumo** [eh-koh-NOO-mo] - a beautiful application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets, offering cloud-hosted or self-hosted options.
