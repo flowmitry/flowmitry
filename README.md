@@ -10,20 +10,20 @@
 - **Open Source:** [github.com/econumo](https://github.com/econumo)
 
 ##
+### [WhiteAgent](https://whiteagent.org)
+
+**WhiteAgent** — Private, white-label agents working under your brand.
+
+- **Website:** [whiteagent.org](https://whiteagent.org)
+- **Open Source:** [github.com/whiteagent-org](https://github.com/whiteagent-org)
+
+##
 [<img src="assets/moose-browser.svg" alt="Moose Browser logo" height="32"/>](https://moosebrowser.com)
 
 **Moose Browser** - Under development
 
 - **Website:** [moosebrowser.com](https://moosebrowser.com)
 - **Status:** Not open source (under development)
-
-##
-### [whiteagent](https://whiteagent.org)
-
-**whiteagent** - Under development
-
-- **Website:** [whiteagent.org](https://whiteagent.org)
-- **Open Source:** [github.com/whiteagent-org](https://github.com/whiteagent-org)
 
 ##
 ### About Me
