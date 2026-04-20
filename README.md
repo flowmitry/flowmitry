@@ -1,4 +1,6 @@
-## 
+## Most Recent Projects
+
+##
 [<img src="assets/econumo.png" alt="Econumo logo" height="24"/>](https://econumo.com)
 
 **Econumo** [eh-koh-NOO-mo] - a beautiful application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets, offering cloud-hosted or self-hosted options.
@@ -16,6 +18,16 @@
 - **Status:** Not open source (under development)
 
 ##
+### [whiteagent](https://whiteagent.org)
+
+**whiteagent** - Under development
+
+- **Website:** [whiteagent.org](https://whiteagent.org)
+- **Open Source:** [github.com/whiteagent-org](https://github.com/whiteagent-org)
+
+##
 ### About Me
 
 T-shaped generalist with 15+ years of experience bridging software engineering, people management, and digital product management.
+
+- **Personal website:** [kuznetsov.dev](https://kuznetsov.dev)
