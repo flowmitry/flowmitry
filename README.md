@@ -28,5 +28,3 @@
 ### About Me
 
 T-shaped generalist with 15+ years of experience bridging software engineering, people management, and digital product management.
-
-More projects on my personal site: [kuznetsov.dev](https://kuznetsov.dev)
